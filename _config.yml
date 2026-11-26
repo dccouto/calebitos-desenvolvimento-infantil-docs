@@ -1,0 +1,7 @@
+# GitHub Pages (Jekyll) — ative em Settings → Pages → Deploy from branch (main / root)
+title: "Calebito's - Desenvolvimento Infantil"
+description: "Política de privacidade e termos de uso do aplicativo Android offline."
+lang: pt-BR
+timezone: America/Sao_Paulo
+markdown: kramdown
+theme: minima
