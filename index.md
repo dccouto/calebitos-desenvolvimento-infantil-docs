@@ -19,7 +19,7 @@ O app **não** usa backend próprio, **não** exibe anúncios e **não** coleta 
 
 **Diego Couto**  
 GitHub: [dccouto](https://github.com/dccouto)  
-E-mail de contato: *a ser informado pelo responsável* (não há e-mail público neste repositório).
+E-mail de contato: [calebitos.app@gmail.com](mailto:calebitos.app@gmail.com)
 
 ## Repositórios
 

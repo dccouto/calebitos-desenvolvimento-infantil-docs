@@ -24,7 +24,7 @@ O App é um aplicativo Android de atividades educativas inclusivas, voltado a cr
 
 - Nome: **Diego Couto**
 - GitHub: [https://github.com/dccouto](https://github.com/dccouto)
-- E-mail: *a ser informado pelo responsável* (não há e-mail público neste repositório)
+- E-mail: [calebitos.app@gmail.com](mailto:calebitos.app@gmail.com)
 
 ---
 
@@ -171,6 +171,6 @@ Dúvidas sobre privacidade:
 
 - **Diego Couto**
 - GitHub: [https://github.com/dccouto](https://github.com/dccouto)
-- E-mail: *a ser informado pelo responsável*
+- E-mail: [calebitos.app@gmail.com](mailto:calebitos.app@gmail.com)
 
 Documentos relacionados: [Termos de uso](termos-de-uso.md) · [Início](index.md)

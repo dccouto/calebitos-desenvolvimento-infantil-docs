@@ -114,6 +114,6 @@ Estes Termos são interpretados conforme as leis da **República Federativa do B
 
 - **Diego Couto**
 - GitHub: [https://github.com/dccouto](https://github.com/dccouto)
-- E-mail: *a ser informado pelo responsável* (não há e-mail público neste repositório)
+- E-mail: [calebitos.app@gmail.com](mailto:calebitos.app@gmail.com)
 
 Documentos relacionados: [Política de privacidade](politica-de-privacidade.md) · [Início](index.md)

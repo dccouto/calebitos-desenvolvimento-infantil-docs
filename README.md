@@ -24,7 +24,7 @@ Documentação pública de **privacidade** e **termos de uso** do app Android of
 
 - Responsável: **Diego Couto**
 - GitHub: [dccouto](https://github.com/dccouto)
-- E-mail: *a ser informado pelo responsável* (não há e-mail público neste repositório)
+- E-mail: [calebitos.app@gmail.com](mailto:calebitos.app@gmail.com)
 
 ## GitHub Pages
 
